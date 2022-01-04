@@ -1,0 +1,274 @@
+.container {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.flex_box1 {
+    display: flex;
+    background-color:#313131;
+    color:#FFFFFF;
+    margin-top: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    height: 70px;
+    align-items: center;
+    margin-bottom: 0px;
+    width: 1900px;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 20.50px;
+    list-style-type: none;
+}
+.logo1 {
+    width: 27px;
+    height: 27px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.flex1 {
+    padding-right: 384px;
+    font-size: 22px;
+    line-height: 30px;
+}
+.flex2 {
+    color:#14B9D5;
+    padding: 0px,0px,0px,0px;
+    margin-right: 35px;
+    margin-left: 20px;
+}
+.flex3 {
+    margin-right: 35px;
+}
+.flex4 {
+    margin-right: 35px;
+}
+.flex5 {
+    margin-right: 35px;
+}
+.flex6 {
+    margin-right: 35px;
+}
+.flex7 {
+    margin-right: 0px;
+}
+.logo2 {
+    margin-right: 0px;
+    margin-left: 510px;
+    width: 17px;
+    height: 17px;
+    background-color:#000000;
+    padding-top: 26.5px;
+    padding-bottom: 26.5px;
+    padding-right: 26.5px;
+    padding-left: 28px;
+    align-items: center;
+    justify-content: center;
+}
+.flex_box2{
+    position: relative;
+    display: flex;
+    background-image: url(../img/imge1.png);
+    color:#FFFFFF;
+    
+    height: 369px;
+    width: 1900px;
+}
+.flex8 {
+    list-style-type: none;
+    margin-top: 163px;
+    margin-left: 715px;
+}
+.flex9 {
+    border-radius: 5px;
+    list-style-type: none;
+    position: absolute;
+    width: 170px;
+    height: 55px;
+    margin-top: 44px;
+    margin-left: 730px;
+    margin-right: 20px;
+    background: #89CA62;
+}    
+.flex10 {
+    border-radius: 5px;
+    margin-top: 44px;
+    margin-left: 930px;
+    list-style-type: none;
+    position: absolute;
+    background: #14B9D5;
+    width: 170px;
+    height: 55px;
+}
+.flex11 {
+    display: flex;
+    color:#18B4CF;
+    width: 330px;
+    height: 33px;
+    font-size: 27px;
+    line-height: 36.77px;
+    justify-content: center;
+    margin-left: 790px;
+    margin-top: 49px;
+    margin-bottom: 52px;
+} 
+.image1 {
+    position: relative;
+    display: flex;
+    margin-top: 52px;
+}
+.img1 {
+    position: absolute;
+    width: 370px;
+    height: 259px;
+    margin-left: 370px;
+}
+.img_txt1 {
+    position: absolute;
+    font-size: 18px;
+    line-height: 24.50px;
+    margin-left: 410px;
+    margin-top: 280px;
+}
+.img2 {
+    position: absolute;
+    width: 370px;
+    height: 380px;
+    margin-left: 770px;
+}
+.img_txt2 {
+    position: absolute;
+    font-size: 18px;
+    line-height: 24.50px;
+    margin-top: 400px;
+    margin-left: 834px;
+}
+.img3 {
+    width: 370px;
+    height: 290px;
+    position: absolute;
+    margin-left: 1170px;
+}
+.img_txt3 {
+    position: absolute;
+    font-size: 18px;
+    line-height: 24.50px;
+    margin-top: 310px;
+    margin-left: 1230px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    align-items: center;
+    width: 289px;
+
+}
+.img4 {
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 370px;
+    width: 370px;
+    height: 260px;
+}
+.img_txt4 {
+    position: absolute;
+    font-size: 18px;
+    line-height: 24.50px;
+    margin-top: 636px;
+    margin-left: 400px;
+}
+.img5 {
+    position: absolute;
+    margin-top: 460px;
+    margin-left: 770px;
+    width: 370px;
+    height: 247px;
+}
+.img_txt5 {
+    position: absolute; 
+    font-size: 18px;
+    line-height: 24.50px;
+    margin-top: 20px;
+    margin-top: 730px;
+    margin-left: 850px;
+}
+.img6 {
+    position: absolute;
+    margin-top: 380px;
+    margin-left: 1170px;
+    width: 370px;
+    height: 380px;
+}
+.img_txt6 {
+    position: absolute;
+    font-size: 18px;
+    line-height: 24.50px;
+    margin-top: 780px;
+    margin-left: 1222px;
+    width: 324px;
+}
+.inline_grid {
+    display:grid;
+    color: #FFFFFF;
+    width: 1900px;
+    height: 588px;
+    background-image: url(../img/parallax-bg.jpeg);
+    margin-top: 900px;
+    position: relative;
+}
+.gridtxt {
+    position: absolute;
+    font-size: 32px;
+    padding-left: 702px;
+    padding-top: 106px;
+    width: 496px;
+    height: 44px;
+    line-height: 43px;
+}
+.gridimg1 {
+    width: 207px;
+    height: 28px;
+    position: absolute;
+    padding-top: 357px;
+    padding-left: 510px;
+    padding-bottom: 0px;
+}   
+.gridimg2 {
+    width: 135px;
+    height: 49px;
+    position: absolute;
+    padding-top: 347px;
+    padding-left: 775px;
+} 
+.gridimg3 {
+    position: absolute;
+    width: 232px;
+    height: 51px;
+    padding-top: 346px;
+    padding-left: 968px;
+}
+.gridimg4 {
+    position: absolute;
+    width: 141px;
+    height: 52px;
+    padding-top: 345px;
+    padding-left: 1250px;
+}
+.top {
+    color:#18B4CF;
+    
+}
+.kids {
+    display:inline-grid;
+    
+    width: 271px;
+    height: 190px;
+    padding-top: 134px;
+    
+} 
+
+
+
+
+
+
